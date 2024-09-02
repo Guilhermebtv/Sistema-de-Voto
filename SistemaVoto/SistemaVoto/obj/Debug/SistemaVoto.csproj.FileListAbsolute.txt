@@ -1,0 +1,7 @@
+C:\Users\usuario\Desktop\ESTUDOS\SistemaVoto\SistemaVoto\bin\Debug\SistemaVoto.exe.config
+C:\Users\usuario\Desktop\ESTUDOS\SistemaVoto\SistemaVoto\bin\Debug\SistemaVoto.exe
+C:\Users\usuario\Desktop\ESTUDOS\SistemaVoto\SistemaVoto\bin\Debug\SistemaVoto.pdb
+C:\Users\usuario\Desktop\ESTUDOS\SistemaVoto\SistemaVoto\obj\Debug\SistemaVoto.csproj.AssemblyReference.cache
+C:\Users\usuario\Desktop\ESTUDOS\SistemaVoto\SistemaVoto\obj\Debug\SistemaVoto.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\ESTUDOS\SistemaVoto\SistemaVoto\obj\Debug\SistemaVoto.exe
+C:\Users\usuario\Desktop\ESTUDOS\SistemaVoto\SistemaVoto\obj\Debug\SistemaVoto.pdb
